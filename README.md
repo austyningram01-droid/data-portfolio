@@ -1,6 +1,4 @@
-[index.html](https://github.com/user-attachments/files/34459941/index.html)
-# data-portfolio
-data analytics portfolio
+[index.html](https://github.com/user-attachments/files/34459977/index.html)
 <html lang="en" class="dark scroll-smooth">
 <head>
   <meta charset="UTF-8" />
